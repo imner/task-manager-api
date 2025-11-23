@@ -30,7 +30,7 @@ API REST profesional para gestión de tareas y proyectos, construida con Django 
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/imnermallqui/task-manager-api.git
+git clone https://github.com/imner/task-manager-api.git
 cd task-manager-api
 ```
 
@@ -197,7 +197,7 @@ Este proyecto está bajo la Licencia MIT.
 ## 👤 Autor
 
 **Tu Nombre**
-- GitHub: (https://github.com/imnermallqui)
+- GitHub: (https://github.com/imner/)
 - LinkedIn: (https://www.linkedin.com/in/imnermallqui/)
 
 ## 🙏 Agradecimientos
